@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: LifeTableBuilder
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Almaraz Valle
+    given-names: Víctor Manuel
+    affiliation: Colegio de Postgraduados
+  - family-names: Rodríguez Maciel
+    given-names: J. Concepción
+    affiliation: Colegio de Postgraduados
+  - family-names: Ramírez Valverde
+    given-names: Gustavo
+    affiliation: Colegio de Postgraduados
+  - family-names: Aguilar Castillo
+    given-names: C. E.
+    affiliation: Colegio de Postgraduados
+version: 1.0.0
+doi: 10.5281/zenodo.18446884
+date-released: 2026-02-01
+license: MIT
+repository-code: "https://github.com/almarazkrae-4081/lifetablebuilder"
