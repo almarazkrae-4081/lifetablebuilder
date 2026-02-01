@@ -1,5 +1,9 @@
 pkgs <- c(
-  "shiny"
+  "shiny",
+  "DT",
+  "ggplot2",
+  "readxl",
+  "gridExtra"
 )
 
 to_install <- pkgs[!pkgs %in% rownames(installed.packages())]
