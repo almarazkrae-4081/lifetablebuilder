@@ -27,5 +27,12 @@ the expected input structure for life-table construction.
 
 shiny::runApp("src/app.R")
 
+## Run the application
+
+```r
+source("app_requirements.R")
+shiny::runApp("src")
+
+
 ## Usage
 You can test the app with data/example_lifetable.csv
