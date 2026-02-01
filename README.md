@@ -17,6 +17,6 @@ An R/Shiny application for constructing life tables in ecological and entomologi
 
 ## R
 
-install.packages(c("shiny"))
+shiny::runApp("src/app.R")
 
 
