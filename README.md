@@ -19,4 +19,5 @@ An R/Shiny application for constructing life tables in ecological and entomologi
 
 shiny::runApp("src/app.R")
 
-
+## Usage
+You can test the app with data/example_lifetable.csv
