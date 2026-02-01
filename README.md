@@ -17,6 +17,11 @@ An R/Shiny application for constructing life tables in ecological and entomologi
 3. source("app_requirements.R")
 shiny::runApp("src/app.R")
 
+## Example dataset
+
+An example dataset is provided in `data/example_lifetable.csv` to demonstrate
+the expected input structure for life-table construction.
+
 
 ## R
 
