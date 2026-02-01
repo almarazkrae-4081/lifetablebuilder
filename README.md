@@ -14,6 +14,9 @@ An R/Shiny application for constructing life tables in ecological and entomologi
 ### Option 1: Run from GitHub (recommended)
 1. Install R (>= 4.1) and RStudio (optional).
 2. Install required packages in R:
+3. source("app_requirements.R")
+shiny::runApp("src/app.R")
+
 
 ## R
 
