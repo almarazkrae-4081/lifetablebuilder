@@ -1,0 +1,13 @@
+{
+  "title": "LifeTableBuilder",
+  "upload_type": "software",
+  "description": "An R/Shiny application for constructing life tables in ecological and entomological studies, providing reproducible workflows for data validation, demographic calculations, visualization, and export of results.",
+  "creators": [
+    { "name": "Almaraz Valle, Víctor Manuel", "affiliation": "Colegio de Postgraduados" },
+    { "name": "Rodríguez Maciel, J. Concepción", "affiliation": "Colegio de Postgraduados" },
+    { "name": "Ramírez Valverde, Gustavo", "affiliation": "Colegio de Postgraduados" },
+    { "name": "Aguilar Castillo, C. E.", "affiliation": "Colegio de Postgraduados" }
+  ],
+  "license": "MIT",
+  "keywords": ["life table", "R", "Shiny", "entomology", "ecology", "demography"]
+}
